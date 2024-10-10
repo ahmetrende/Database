@@ -1,6 +1,6 @@
 # Ahmet Rende | Database Scripts
 
-## Açıklama
+## Description
 This repository contains various scripts for database systems.
 
 ## Contents
