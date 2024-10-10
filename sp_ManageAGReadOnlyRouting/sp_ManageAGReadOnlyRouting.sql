@@ -3,9 +3,9 @@ GO
 
 CREATE OR ALTER PROC sp_ManageAGReadOnlyRouting
 
-		@AgName					VARCHAR(200) = NULL
-	   ,@DatabaseName			VARCHAR(200) = NULL
-	   ,@ThresholdSec			INT				
+	    @AgName			VARCHAR(200) = NULL
+	   ,@DatabaseName		VARCHAR(200) = NULL
+	   ,@ThresholdSec		INT				
 	   ,@HistoryTableFQDN		VARCHAR(500)	
 
 AS
